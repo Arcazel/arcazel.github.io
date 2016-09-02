@@ -1,0 +1,14 @@
+Package: com.arcazel.haramberespring
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Arcazel <email@address.com>
+Filename: ./debs/com.arcazel.haramberespring_1.0_iphoneos-arm.deb
+Size: 3632036
+MD5sum: 2576b5fa8d8feb96a42107e00be66999
+SHA1: 881d3ad9877231aa9d48458d48af6c62e73dce4f
+SHA256: 82abfbfe5dab6691160bc7c17d8d519cad82352af16f657ffd89a7d50aa3be67
+Section: Themes
+Description: A Harambe respring logo for the dankest and spiciest of all memes. Dicks Out For Harambe!
+Author: Arcazel <email@address.com>
+Name: Harambe Respring Logo
+
